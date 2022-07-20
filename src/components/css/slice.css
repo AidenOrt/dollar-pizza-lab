@@ -8,3 +8,10 @@
 .card-img-top{
   max-height: 18rem
 }
+
+.foot{ 
+    margin: 3% auto;
+    text-align: center;
+    font-size: 30px;
+}
+
